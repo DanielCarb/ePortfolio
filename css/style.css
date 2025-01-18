@@ -292,6 +292,15 @@ button {
 
 /*-- marker-end sidebar  navigation--*/
 
+.header .titlepage h2 {
+     font-size: 40px;
+     color: #ffffff;
+     line-height: 45px;
+     font-weight: bold;
+     padding: 0;
+}
+
+
 .sea_icon a {
      color: #8c8c8c !important;
 }
@@ -332,13 +341,7 @@ button {
      text-align: center;
 }
 
-.header .titlepage h2 {
-     font-size: 40px;
-     color: #ffffff;
-     line-height: 45px;
-     font-weight: bold;
-     padding: 0;
-}
+
 
 .text-bg h1 {
      color: #fff;
